@@ -1,1 +1,1 @@
-"# android_test" 
+Тест для приложенией на appium
