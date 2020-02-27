@@ -1,0 +1,17 @@
+{
+  "port": 4723,
+  "capabilities": {
+    "deviceName": "Mi_A3",
+    "platformName": "Android",
+    "appActivity": "ru.mysmartflat.kortros.view.activity.TermsActivity",
+    "appPackage": "ru.mysmartflat.newcity",
+    "app": "C:\\android_test\\utils\\app-newcity-release.apk",
+    "appium-version": "1.15.1",
+    "platformVersion": "9",
+    "automationName": "UiAutomator2",
+    "fullReset": true,
+    "printPageSourceOnFindFailure": true,
+    "autoGrantPermissions": true,
+    "autoAcceptAlerts": true
+  }
+}
