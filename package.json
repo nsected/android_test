@@ -16,7 +16,7 @@
     "jimp": "^0.9.3",
     "mocha": "^7.0.0",
     "qrcode-reader": "^1.0.4",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "split-file": "^2.2.0",
     "webdriverio": "^5.18.6"
   },
